@@ -1,0 +1,330 @@
+For n=10 k(1)=1: 
+	Select Kth 1 time: 8.210000000000001E-6 seconds.
+	Select Kth 2 time: 9.330000000000001E-7 seconds.
+	Select Kth 3 time: 1.119E-6 seconds.
+	Select Kth 4 time: 3.9497000000000005E-5 seconds.
+
+For n=10 k(n/4)=2: 
+	Select Kth 1 time: 8.484E-6 seconds.
+	Select Kth 2 time: 1.181E-6 seconds.
+	Select Kth 3 time: 1.405E-6 seconds.
+	Select Kth 4 time: 1.3746E-5 seconds.
+
+For n=10 k(n/2)=5: 
+	Select Kth 1 time: 8.29E-6 seconds.
+	Select Kth 2 time: 1.604E-6 seconds.
+	Select Kth 3 time: 2.0220000000000003E-6 seconds.
+	Select Kth 4 time: 1.3572000000000002E-5 seconds.
+
+For n=10 k(3n/4)=7: 
+	Select Kth 1 time: 1.2543E-5 seconds.
+	Select Kth 2 time: 1.875E-6 seconds.
+	Select Kth 3 time: 2.3320000000000003E-6 seconds.
+	Select Kth 4 time: 1.2479E-5 seconds.
+
+For n=10 k(n)=10: 
+	Select Kth 1 time: 8.977E-6 seconds.
+	Select Kth 2 time: 2.2410000000000002E-6 seconds.
+	Select Kth 3 time: 2.6430000000000004E-6 seconds.
+	Select Kth 4 time: 1.2137000000000001E-5 seconds.
+
+For n=50 k(1)=1: 
+	Select Kth 1 time: 3.4886000000000004E-5 seconds.
+	Select Kth 2 time: 2.376E-6 seconds.
+	Select Kth 3 time: 2.5190000000000004E-6 seconds.
+	Select Kth 4 time: 2.7805000000000002E-5 seconds.
+
+For n=50 k(n/4)=12: 
+	Select Kth 1 time: 5.9972E-5 seconds.
+	Select Kth 2 time: 1.0738000000000001E-5 seconds.
+	Select Kth 3 time: 1.2073000000000001E-5 seconds.
+	Select Kth 4 time: 4.8479E-5 seconds.
+
+For n=50 k(n/2)=25: 
+	Select Kth 1 time: 4.4774E-5 seconds.
+	Select Kth 2 time: 1.8257E-5 seconds.
+	Select Kth 3 time: 2.0577E-5 seconds.
+	Select Kth 4 time: 2.5556E-5 seconds.
+
+For n=50 k(3n/4)=37: 
+	Select Kth 1 time: 3.2964000000000005E-5 seconds.
+	Select Kth 2 time: 5.89E-6 seconds.
+	Select Kth 3 time: 2.7192000000000003E-5 seconds.
+	Select Kth 4 time: 2.1158E-5 seconds.
+
+For n=50 k(n)=50: 
+	Select Kth 1 time: 2.6745000000000002E-5 seconds.
+	Select Kth 2 time: 7.2730000000000005E-6 seconds.
+	Select Kth 3 time: 9.979E-6 seconds.
+	Select Kth 4 time: 2.5877000000000003E-5 seconds.
+
+For n=100 k(1)=1: 
+	Select Kth 1 time: 2.5128E-5 seconds.
+	Select Kth 2 time: 1.827E-6 seconds.
+	Select Kth 3 time: 4.1100000000000005E-6 seconds.
+	Select Kth 4 time: 2.1969000000000003E-5 seconds.
+
+For n=100 k(n/4)=25: 
+	Select Kth 1 time: 1.2614000000000002E-5 seconds.
+	Select Kth 2 time: 3.91E-6 seconds.
+	Select Kth 3 time: 5.487E-6 seconds.
+	Select Kth 4 time: 2.5044000000000003E-5 seconds.
+
+For n=100 k(n/2)=50: 
+	Select Kth 1 time: 9.178000000000001E-6 seconds.
+	Select Kth 2 time: 6.877E-6 seconds.
+	Select Kth 3 time: 8.064000000000001E-6 seconds.
+	Select Kth 4 time: 2.7712E-5 seconds.
+
+For n=100 k(3n/4)=75: 
+	Select Kth 1 time: 9.299E-6 seconds.
+	Select Kth 2 time: 8.715E-6 seconds.
+	Select Kth 3 time: 1.0196E-5 seconds.
+	Select Kth 4 time: 3.1106E-5 seconds.
+
+For n=100 k(n)=100: 
+	Select Kth 1 time: 8.826E-6 seconds.
+	Select Kth 2 time: 9.642E-6 seconds.
+	Select Kth 3 time: 1.168E-5 seconds.
+	Select Kth 4 time: 1.7106000000000002E-5 seconds.
+
+For n=250 k(1)=1: 
+	Select Kth 1 time: 2.2291E-5 seconds.
+	Select Kth 2 time: 2.612E-6 seconds.
+	Select Kth 3 time: 6.005E-6 seconds.
+	Select Kth 4 time: 2.5253E-5 seconds.
+
+For n=250 k(n/4)=62: 
+	Select Kth 1 time: 2.1936E-5 seconds.
+	Select Kth 2 time: 1.8311E-5 seconds.
+	Select Kth 3 time: 2.2473E-5 seconds.
+	Select Kth 4 time: 2.7256E-5 seconds.
+
+For n=250 k(n/2)=125: 
+	Select Kth 1 time: 2.286E-5 seconds.
+	Select Kth 2 time: 3.47E-5 seconds.
+	Select Kth 3 time: 3.5159E-5 seconds.
+	Select Kth 4 time: 2.7346000000000002E-5 seconds.
+
+For n=250 k(3n/4)=187: 
+	Select Kth 1 time: 2.2485000000000002E-5 seconds.
+	Select Kth 2 time: 4.5255E-5 seconds.
+	Select Kth 3 time: 4.6591E-5 seconds.
+	Select Kth 4 time: 2.6368000000000002E-5 seconds.
+
+For n=250 k(n)=250: 
+	Select Kth 1 time: 3.23E-5 seconds.
+	Select Kth 2 time: 5.7691E-5 seconds.
+	Select Kth 3 time: 5.0308E-5 seconds.
+	Select Kth 4 time: 3.8115000000000004E-5 seconds.
+
+For n=500 k(1)=1: 
+	Select Kth 1 time: 5.0187000000000006E-5 seconds.
+	Select Kth 2 time: 1.3279000000000001E-5 seconds.
+	Select Kth 3 time: 1.1741E-5 seconds.
+	Select Kth 4 time: 3.9096E-5 seconds.
+
+For n=500 k(n/4)=125: 
+	Select Kth 1 time: 4.686E-5 seconds.
+	Select Kth 2 time: 7.0827E-5 seconds.
+	Select Kth 3 time: 7.0084E-5 seconds.
+	Select Kth 4 time: 4.0101E-5 seconds.
+
+For n=500 k(n/2)=250: 
+	Select Kth 1 time: 4.6567E-5 seconds.
+	Select Kth 2 time: 1.30729E-4 seconds.
+	Select Kth 3 time: 1.29212E-4 seconds.
+	Select Kth 4 time: 3.7316E-5 seconds.
+
+For n=500 k(3n/4)=375: 
+	Select Kth 1 time: 4.6571000000000005E-5 seconds.
+	Select Kth 2 time: 1.72814E-4 seconds.
+	Select Kth 3 time: 1.71578E-4 seconds.
+	Select Kth 4 time: 3.9807E-5 seconds.
+
+For n=500 k(n)=500: 
+	Select Kth 1 time: 4.7194E-5 seconds.
+	Select Kth 2 time: 1.92489E-4 seconds.
+	Select Kth 3 time: 1.9124700000000002E-4 seconds.
+	Select Kth 4 time: 4.0430000000000004E-5 seconds.
+
+For n=1000 k(1)=1: 
+	Select Kth 1 time: 9.191700000000001E-5 seconds.
+	Select Kth 2 time: 4.2043000000000004E-5 seconds.
+	Select Kth 3 time: 4.1857E-5 seconds.
+	Select Kth 4 time: 5.7224000000000006E-5 seconds.
+
+For n=1000 k(n/4)=250: 
+	Select Kth 1 time: 9.221500000000001E-5 seconds.
+	Select Kth 2 time: 2.74129E-4 seconds.
+	Select Kth 3 time: 2.7334500000000003E-4 seconds.
+	Select Kth 4 time: 6.0894000000000003E-5 seconds.
+
+For n=1000 k(n/2)=500: 
+	Select Kth 1 time: 9.5945E-5 seconds.
+	Select Kth 2 time: 5.08889E-4 seconds.
+	Select Kth 3 time: 5.07239E-4 seconds.
+	Select Kth 4 time: 5.746E-5 seconds.
+
+For n=1000 k(3n/4)=750: 
+	Select Kth 1 time: 1.18647E-4 seconds.
+	Select Kth 2 time: 6.70103E-4 seconds.
+	Select Kth 3 time: 6.71079E-4 seconds.
+	Select Kth 4 time: 3.1484300000000003E-4 seconds.
+
+For n=1000 k(n)=1000: 
+	Select Kth 1 time: 8.3504E-5 seconds.
+	Select Kth 2 time: 7.43274E-4 seconds.
+	Select Kth 3 time: 7.449620000000001E-4 seconds.
+	Select Kth 4 time: 9.1332E-5 seconds.
+
+For n=1500 k(1)=1: 
+	Select Kth 1 time: 1.24742E-4 seconds.
+	Select Kth 2 time: 1.52697E-4 seconds.
+	Select Kth 3 time: 1.52662E-4 seconds.
+	Select Kth 4 time: 5.6457000000000005E-5 seconds.
+
+For n=1500 k(n/4)=375: 
+	Select Kth 1 time: 1.1414300000000001E-4 seconds.
+	Select Kth 2 time: 6.027210000000001E-4 seconds.
+	Select Kth 3 time: 6.09307E-4 seconds.
+	Select Kth 4 time: 5.0913000000000005E-5 seconds.
+
+For n=1500 k(n/2)=750: 
+	Select Kth 1 time: 1.15755E-4 seconds.
+	Select Kth 2 time: 0.0011181770000000001 seconds.
+	Select Kth 3 time: 0.0011300680000000001 seconds.
+	Select Kth 4 time: 5.3909E-5 seconds.
+
+For n=1500 k(3n/4)=1125: 
+	Select Kth 1 time: 1.20432E-4 seconds.
+	Select Kth 2 time: 0.001482697 seconds.
+	Select Kth 3 time: 0.001483085 seconds.
+	Select Kth 4 time: 5.1958000000000006E-5 seconds.
+
+For n=1500 k(n)=1500: 
+	Select Kth 1 time: 3.3384500000000004E-4 seconds.
+	Select Kth 2 time: 0.0016581690000000001 seconds.
+	Select Kth 3 time: 0.0016517160000000001 seconds.
+	Select Kth 4 time: 5.5860000000000004E-5 seconds.
+
+For n=2000 k(1)=1: 
+	Select Kth 1 time: 2.14681E-4 seconds.
+	Select Kth 2 time: 3.36983E-4 seconds.
+	Select Kth 3 time: 3.3693600000000003E-4 seconds.
+	Select Kth 4 time: 6.298500000000001E-5 seconds.
+
+For n=2000 k(n/4)=500: 
+	Select Kth 1 time: 1.65222E-4 seconds.
+	Select Kth 2 time: 0.001100981 seconds.
+	Select Kth 3 time: 0.0010924510000000001 seconds.
+	Select Kth 4 time: 7.2185E-5 seconds.
+
+For n=2000 k(n/2)=1000: 
+	Select Kth 1 time: 1.57507E-4 seconds.
+	Select Kth 2 time: 0.0019606890000000003 seconds.
+	Select Kth 3 time: 0.0019493420000000002 seconds.
+	Select Kth 4 time: 6.8614E-5 seconds.
+
+For n=2000 k(3n/4)=1500: 
+	Select Kth 1 time: 2.95853E-4 seconds.
+	Select Kth 2 time: 0.002571331 seconds.
+	Select Kth 3 time: 0.0025857930000000003 seconds.
+	Select Kth 4 time: 6.4851E-5 seconds.
+
+For n=2000 k(n)=2000: 
+	Select Kth 1 time: 1.8114500000000001E-4 seconds.
+	Select Kth 2 time: 0.002918749 seconds.
+	Select Kth 3 time: 0.002930972 seconds.
+	Select Kth 4 time: 7.1501E-5 seconds.
+
+For n=3000 k(1)=1: 
+	Select Kth 1 time: 2.58036E-4 seconds.
+	Select Kth 2 time: 5.92146E-4 seconds.
+	Select Kth 3 time: 5.95213E-4 seconds.
+	Select Kth 4 time: 1.0635600000000001E-4 seconds.
+
+For n=3000 k(n/4)=750: 
+	Select Kth 1 time: 3.89791E-4 seconds.
+	Select Kth 2 time: 0.002424822 seconds.
+	Select Kth 3 time: 0.002479425 seconds.
+	Select Kth 4 time: 1.0928500000000001E-4 seconds.
+
+For n=3000 k(n/2)=1500: 
+	Select Kth 1 time: 2.64932E-4 seconds.
+	Select Kth 2 time: 0.0044265450000000005 seconds.
+	Select Kth 3 time: 0.004391562 seconds.
+	Select Kth 4 time: 1.1155E-4 seconds.
+
+For n=3000 k(3n/4)=2250: 
+	Select Kth 1 time: 2.4599400000000003E-4 seconds.
+	Select Kth 2 time: 0.005997440000000001 seconds.
+	Select Kth 3 time: 0.006037281 seconds.
+	Select Kth 4 time: 1.1349600000000001E-4 seconds.
+
+For n=3000 k(n)=3000: 
+	Select Kth 1 time: 3.62378E-4 seconds.
+	Select Kth 2 time: 0.0065507180000000005 seconds.
+	Select Kth 3 time: 0.00653673 seconds.
+	Select Kth 4 time: 1.3011900000000002E-4 seconds.
+
+For n=3500 k(1)=1: 
+	Select Kth 1 time: 3.34215E-4 seconds.
+	Select Kth 2 time: 0.0013192240000000001 seconds.
+	Select Kth 3 time: 0.0013159290000000002 seconds.
+	Select Kth 4 time: 1.1521900000000001E-4 seconds.
+
+For n=3500 k(n/4)=875: 
+	Select Kth 1 time: 2.9325200000000003E-4 seconds.
+	Select Kth 2 time: 0.003471211 seconds.
+	Select Kth 3 time: 0.0034712370000000003 seconds.
+	Select Kth 4 time: 2.4789800000000003E-4 seconds.
+
+For n=3500 k(n/2)=1750: 
+	Select Kth 1 time: 2.9072E-4 seconds.
+	Select Kth 2 time: 0.0061023860000000004 seconds.
+	Select Kth 3 time: 0.006116697000000001 seconds.
+	Select Kth 4 time: 1.5662600000000001E-4 seconds.
+
+For n=3500 k(3n/4)=2625: 
+	Select Kth 1 time: 2.87477E-4 seconds.
+	Select Kth 2 time: 0.008015877000000001 seconds.
+	Select Kth 3 time: 0.007970783 seconds.
+	Select Kth 4 time: 2.6607000000000003E-4 seconds.
+
+For n=3500 k(n)=3500: 
+	Select Kth 1 time: 2.82598E-4 seconds.
+	Select Kth 2 time: 0.008858922 seconds.
+	Select Kth 3 time: 0.008858922 seconds.
+	Select Kth 4 time: 1.66916E-4 seconds.
+
+For n=3700 k(1)=1: 
+	Select Kth 1 time: 3.3592400000000003E-4 seconds.
+	Select Kth 2 time: 0.00191273 seconds.
+	Select Kth 3 time: 0.0018073630000000002 seconds.
+	Select Kth 4 time: 1.4242E-4 seconds.
+
+For n=3700 k(n/4)=925: 
+	Select Kth 1 time: 3.02799E-4 seconds.
+	Select Kth 2 time: 0.003920944 seconds.
+	Select Kth 3 time: 0.003886622 seconds.
+	Select Kth 4 time: 1.3708600000000002E-4 seconds.
+
+For n=3700 k(n/2)=1850: 
+	Select Kth 1 time: 4.19394E-4 seconds.
+	Select Kth 2 time: 0.006784729000000001 seconds.
+	Select Kth 3 time: 0.006846783 seconds.
+	Select Kth 4 time: 1.4553500000000002E-4 seconds.
+
+For n=3700 k(3n/4)=2775: 
+	Select Kth 1 time: 3.19307E-4 seconds.
+	Select Kth 2 time: 0.008947828000000001 seconds.
+	Select Kth 3 time: 0.008899282000000001 seconds.
+	Select Kth 4 time: 1.3596700000000002E-4 seconds.
+
+For n=3700 k(n)=3700: 
+	Select Kth 1 time: 4.21452E-4 seconds.
+	Select Kth 2 time: 0.010252872000000001 seconds.
+	Select Kth 3 time: 0.009857084 seconds.
+	Select Kth 4 time: 1.52527E-4 seconds.
+
